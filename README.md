@@ -1,4 +1,4 @@
-## Knolwdge Officer [Product Management Track]: Budiness Fundamentals -> User Experience_
+## Knolwdge Officer [Product Management Track]: Budiness Fundamentals -> _User Experience_
 In the first part of the project, start by stating an example of UX of a product/app that you like and why do you think its UX is powerful and successful. 
 
 In the second part, propose a simple UX cincept of a product of your own creation in any industry. Try to include the core components of UX in this product and discuss why you choose each element.
