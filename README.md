@@ -26,7 +26,7 @@ In the second part, propose a simple UX cincept of a product of your own creatio
  
 ## Knowledge Officer Robric
 <p align="center">
-<img src="https://github.com/yarahisham/Casestudy-User_Experience/blob/main/Images/Screen%20Shot%202021-04-27%20at%205.18.25%20PM.jpg" alt="alt text" width="700" height="400" >
+<img src="https://github.com/yarahisham/Casestudy-User_Experience/blob/main/Images/Screen%20Shot%202021-04-27%20at%205.18.25%20PM.jpg" alt="alt text" width="700" height="450" >
 </p>
 
 <p align="center">
