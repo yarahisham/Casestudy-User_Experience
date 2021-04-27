@@ -4,7 +4,7 @@ In the first part of the project, start by stating an example of UX of a product
 In the second part, propose a simple UX cincept of a product of your own creation in any industry. Try to include the core components of UX in this product and discuss why you choose each element.
 
 <p align="center">
-<img src="https://github.com/yarahisham/Casestudy-User_Experience/blob/main/Images/Screen%20Shot%202021-04-27%20at%205.16.31%20PM.jpg" alt="alt text" width="700" height="1000" >
+<img src="https://github.com/yarahisham/Casestudy-User_Experience/blob/main/Images/Screen%20Shot%202021-04-27%20at%205.16.31%20PM.jpg" alt="alt text" width="700" height="200" >
 </p>
 
 ## Description
@@ -21,7 +21,7 @@ In the second part, propose a simple UX cincept of a product of your own creatio
     - The flow of interaction from the mentioned functionality.
 
 <p align="center">
-<img src="https://github.com/yarahisham/Casestudy-User_Experience/blob/main/Images/Screen%20Shot%202021-04-27%20at%205.15.35%20PM.jpg" alt="alt text" width="700" height="1000" >
+<img src="https://github.com/yarahisham/Casestudy-User_Experience/blob/main/Images/Screen%20Shot%202021-04-27%20at%205.15.35%20PM.jpg" alt="alt text" width="700" height="500" >
 </p>
  
 ## Knowledge Officer Robric
