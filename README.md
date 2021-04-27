@@ -15,7 +15,7 @@ In the second part, propose a simple UX cincept of a product of your own creatio
     - The flow of interaction from the mentioned functionality.
     - Screenshots of the app.
   - In part 2:
-    - What is plant waterign tracker?
+    - What is plant watering tracker?
     - UI have the four bacis aspects.
     - The basic functionality of the app.
     - The flow of interaction from the mentioned functionality.
